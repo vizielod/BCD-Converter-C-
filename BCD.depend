@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1463505650 source:e:\egyetem\ii.felev\prog2\nhf\bcd\bcd.cpp
+	<iostream>
+	<cmath>
+	<stdexcept>
+	<string.h>
+	"BCD.h"
+
+1463349908 e:\egyetem\ii.felev\prog2\nhf\bcd\bcd.h
+	"memtrace.h"
+
+1463505088 source:e:\egyetem\ii.felev\prog2\nhf\bcd\main.cpp
+	<iostream>
+	<stdexcept>
+	<string>
+	"BCD.h"
+
+1463329249 e:\egyetem\ii.felev\prog2\nhf\bcd\memtrace.h
+	<new>
+	<stdlib.h>
+	<iostream>
+
+1463329185 source:e:\egyetem\ii.felev\prog2\nhf\bcd\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+

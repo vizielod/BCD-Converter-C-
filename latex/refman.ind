@@ -1,0 +1,60 @@
+\begin{theindex}
+
+  \item {$\sim$\+B\+CD}
+    \subitem {B\+CD}, \hyperpage{5}
+
+  \indexspace
+
+  \item {B\+CD}, \hyperpage{3}
+    \subitem {$\sim$\+B\+CD}, \hyperpage{5}
+    \subitem {B\+CD}, \hyperpage{4, 5}
+    \subitem {bcd\+\_\+to\+\_\+dec}, \hyperpage{5}
+    \subitem {operator!=}, \hyperpage{5}
+    \subitem {operator$<$$<$}, \hyperpage{8}
+    \subitem {operator$>$}, \hyperpage{6}
+    \subitem {operator$>$$>$}, \hyperpage{8}
+    \subitem {operator$>$=}, \hyperpage{6}
+    \subitem {operator$^\wedge$}, \hyperpage{8}
+    \subitem {operator\%}, \hyperpage{6}
+    \subitem {operator\&}, \hyperpage{8}
+    \subitem {operator[]}, \hyperpage{7}
+    \subitem {operator\texttt{|}}, \hyperpage{8}
+    \subitem {realsize}, \hyperpage{7}
+    \subitem {size}, \hyperpage{7}
+  \item {bcd\+\_\+to\+\_\+dec}
+    \subitem {B\+CD}, \hyperpage{5}
+
+  \indexspace
+
+  \item {operator!=}
+    \subitem {B\+CD}, \hyperpage{5}
+  \item {operator$<$$<$}
+    \subitem {B\+CD}, \hyperpage{8}
+  \item {operator$>$}
+    \subitem {B\+CD}, \hyperpage{6}
+  \item {operator$>$$>$}
+    \subitem {B\+CD}, \hyperpage{8}
+  \item {operator$>$=}
+    \subitem {B\+CD}, \hyperpage{6}
+  \item {operator$^\wedge$}
+    \subitem {B\+CD}, \hyperpage{8}
+  \item {operator\%}
+    \subitem {B\+CD}, \hyperpage{6}
+  \item {operator\&}
+    \subitem {B\+CD}, \hyperpage{8}
+  \item {operator[]}
+    \subitem {B\+CD}, \hyperpage{7}
+  \item {operator\texttt{|}}
+    \subitem {B\+CD}, \hyperpage{8}
+
+  \indexspace
+
+  \item {realsize}
+    \subitem {B\+CD}, \hyperpage{7}
+
+  \indexspace
+
+  \item {size}
+    \subitem {B\+CD}, \hyperpage{7}
+
+\end{theindex}
